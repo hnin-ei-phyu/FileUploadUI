@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Charm&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bold;
+}
+table{
+    border: 1px solid skyblue;
+}
+.title{
+    padding: 20px;
+    background-color: aliceblue;
+    font-size: large;
+}
+.time{
+    padding: 20px;
+}
+.total{
+    padding: 20px;
+    background-color: skyblue;
+    font-weight: bolder;
+}
+th, td {
+    padding: 8px 0px 8px 0px;
+    text-align: center;
+  }
